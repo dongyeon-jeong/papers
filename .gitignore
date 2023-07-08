@@ -1,3 +1,4 @@
 *.cpython*
 imputationMPCA/__pycache__/utils.cpython-38.pyc
 imputationMPCA/__pycache__/metric.cpython-38.pyc
+LMVAR/data/missing_warped_50/test/1_1test_warped.csv
